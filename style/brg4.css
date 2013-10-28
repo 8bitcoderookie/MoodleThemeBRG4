@@ -1,0 +1,34 @@
+/* custom menu styling */
+
+#custommenu div {
+	background-color:transparent !important;
+	background-image:none !important;
+	border:0 !important;
+}
+
+#custommenu div.custom_menu_submenu {
+	background-color:#EEEEEE !important;
+}
+
+#custommenu div.custom_menu_submenu a {
+	color:blue !important;
+}
+
+#custommenu a {
+	color:white !important;
+	border:0 !important;
+}
+
+#custommenu a:hover,
+#custommenu a.yui3-menu-label-active,
+#custommenu a.yui3-menu-label-menuvisible
+{
+	background-color:#EEEEEE !important;
+	color:blue !important;
+}
+
+#custommenu {
+	position: absolute !important;
+	left:210px !important;
+	top:29px !important;
+}
