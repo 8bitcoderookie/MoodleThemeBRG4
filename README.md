@@ -1,9 +1,9 @@
 Moodle BRG4 Theme
 =================
 
-This theme is based on the "base" Theme by Sam Hemelryk which comes with standard Moodle.
+This theme is based on the "base" Theme by Sam Hemelryk which comes with standard [Moodle](https://moodle.org/).
 
-The current version is tested with Moodle 2.5
+The current version is tested with [Moodle 2.5](http://download.moodle.org/)
 
 Besides the look this theme enhances Moodle by the following features:
 
