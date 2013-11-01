@@ -32,3 +32,19 @@
 	left:210px !important;
 	top:29px !important;
 }
+
+#maincontent + h1,
+#maincontent + h2,
+#maincontent + h3,
+#maincontent + h4,
+#maincontent + h5,
+#maincontent + h6,
+div > h1:first-child,
+div > h2:first-child,
+div > h3:first-child,
+div > h4:first-child,
+div > h5:first-child,
+div > h6:first-child
+{
+	margin-top:0px !important;
+}
