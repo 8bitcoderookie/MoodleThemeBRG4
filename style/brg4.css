@@ -48,3 +48,7 @@ div > h6:first-child
 {
 	margin-top:0px !important;
 }
+
+dt {
+	font-weight:bold;
+}
