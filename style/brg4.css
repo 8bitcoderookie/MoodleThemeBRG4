@@ -52,3 +52,14 @@ div > h6:first-child
 dt {
 	font-weight:bold;
 }
+code {
+	background-color: #F7F7F9;
+	border: 1px solid #E1E1E8;
+	padding: 3px 4px;
+}
+code, pre {
+	border-radius: 3px 3px 3px 3px;
+	color: #444444;
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	padding: 0 3px 2px;
+}
