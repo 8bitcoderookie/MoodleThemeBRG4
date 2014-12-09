@@ -10,6 +10,7 @@ brg4.setFormElementValueById = function(id, val){
 	document.getElementById(id).value = val;
 }
 
+// usage: selectOptionByValue(nameOfFormElement, valueOfSelectOption)
 brg4.selectOptionByValue = function(selObjName, val){
 	var selObj = document.getElementsByName(selObjName)[0];
 	var opt = selObj.options;

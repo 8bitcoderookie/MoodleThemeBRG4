@@ -72,6 +72,8 @@ echo $OUTPUT->doctype() ?>
 			$PAGE->requires->js('/theme/brg4/javascript/syncCutOffDate.js',false);
 			$PAGE->requires->js('/theme/brg4/javascript/submissionCommentsDefaultChecked.js',false);
 			$PAGE->requires->js('/theme/brg4/javascript/disableDefaultEmailNotification.js',false);
+			$PAGE->requires->js('/theme/brg4/javascript/dom.js',false);
+			$PAGE->requires->js('/theme/brg4/javascript/setAssignmentUploadSizeLimit.js',false);
 		} 
 	?>	
 
