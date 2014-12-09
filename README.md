@@ -20,6 +20,7 @@ Besides the look this theme enhances Moodle by the following features:
 - assignment: sync cut off date with due date; once activated it is set to due date by default
 - assignment: enable Submission comments by default
 - assignment: disable default email notification for graders.
+- assignment: preset file upload limit to less than maximum.
 - Profile Links lead to edit Profile page directly
 
 
