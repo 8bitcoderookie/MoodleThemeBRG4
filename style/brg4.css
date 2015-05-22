@@ -63,3 +63,8 @@ code, pre {
 	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
 	padding: 0 3px 2px;
 }
+
+li.label h3:first-of-type { /* gives extra space before label headings */
+  padding-top: 1em;
+}
+
